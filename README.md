@@ -32,7 +32,7 @@ A data-driven location intelligence tool designed to identify optimal spots for 
 
 ## 👤 About the Developer
 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishith-reddy-nomula-612a18237/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishith-reddy-nomula-612a18237/)
 
 ## 🔮 Roadmap
 - [ ] **Sentiment Analysis**: NLP integration for competitor review analysis
